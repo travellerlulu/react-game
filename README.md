@@ -1,2 +1,2 @@
 # todo-react
-TodoList by React
+The little game by React
